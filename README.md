@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=hakinelee&show_icons=true&theme=github_dark" /> </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakinelee&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakinelee)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **hakinelee/hakinelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
